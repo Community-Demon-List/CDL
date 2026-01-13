@@ -1,0 +1,18 @@
+{
+    "id": 64087507,
+    "name": "Cydonia",
+    "author": "FlyArCz",
+    "creators": ["FlyArCz"],
+    "verifier": "FlyArCz",
+    "verification": "https://youtu.be/Bpp4-2JnRFM?si=gVVk_0LkkJU9Wyhy",
+    "percentToQualify": "78",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "CaltanGMD",
+            "link": "https://youtu.be/iFZV9kXLhPI?si=5l3aAq_Yn8CEM9iW",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
