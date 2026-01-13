@@ -8,5 +8,11 @@
     "percentToQualify": "63",
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Nickwo",
+            "link": "https://youtu.be/gNMxuvgBhuo?si=4IDX08vIHgumpGff",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
