@@ -1,16 +1,16 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 25610878,
+    "name": "Aftermath",
+    "author": "IIExenityII",
+    "creators": ["IIExenityII"],
+    "verifier": "DaMeister",
+    "verification": "https://youtu.be/iLCcJyH5c5k?si=Pn95GUu1-6uTM-Lj",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Nickwo",
+            "link": "https://youtu.be/0Zlryjl6ZvE?si=pq8RGz5-aJfrW871",
             "percent": 100,
             "hz": 360
         }
