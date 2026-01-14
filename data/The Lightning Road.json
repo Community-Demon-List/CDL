@@ -1,0 +1,18 @@
+{
+    "id": 55520,
+    "name": "The Lightning Road",
+    "author": "Timeless Real",
+    "creators": ["Timeless Real"],
+    "verifier": "PlaceholderUK",
+    "verification": "https://www.youtube.com/watch?v=smwunc7UiHk",
+    "percentToQualify": "78",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Arczen",
+            "link": "https://youtu.be/2cRif3f2dXE",
+            "percent": 100,
+            "hz": 30
+        }
+    ]
+}
