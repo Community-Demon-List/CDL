@@ -3,18 +3,12 @@
     "name": "Slaughterhouse (Havok)",
     "author": "Havok",
     "creators": ["Havok"],
-    "verifier": "PlaceholderUK",
-    "verification": "https://youtu.be/miruPn3PxJ0?si=mGEdyRwiIqooWay1",
+    "verifier": "korbir",
+    "verification": "https://youtu.be/2XN3wB5nVw4?si=GHjIQWULhO2PU1J_",
     "percentToQualify": "43",
     "password": "Not Copyable",
     "records": [
         {
-            "user": "korbir",
-            "link": "https://youtu.be/2XN3wB5nVw4?si=GHjIQWULhO2PU1J_",
-            "percent": 100,
-            "hz": 60
-        },
-                {
             "user": "LamarrGDM",
             "link": "https://youtu.be/hMa5R5FI4DE",
             "percent": 100,
