@@ -3,16 +3,10 @@
     "name": "Aftermath",
     "author": "IIExenityII",
     "creators": ["IIExenityII"],
-    "verifier": "PlaceholderUK",
-    "verification": "https://youtu.be/iLCcJyH5c5k?si=Pn95GUu1-6uTM-Lj",
+    "verifier": "Nickwo",
+    "verification": "https://www.youtube.com/watch?v=0ZIryjl6ZvE",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Nickwo",
-            "link": "https://www.youtube.com/watch?v=0ZIryjl6ZvE",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
