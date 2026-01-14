@@ -1,0 +1,18 @@
+{
+    "id": 44062068,
+    "name": "Future Funk",
+    "author": "JonathanGD",
+    "creators": ["JonathanGD"],
+    "verifier": "PlaceholderUK",
+    "verification": "https://youtu.be/LUORMA2NvmM?si=P8zCo8p03fC2JYUg",
+    "percentToQualify": "78",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Nickwo",
+            "link": "https://www.youtube.com/watch?v=HNpdq1csIyY",
+            "percent": 100,
+            "hz": 999
+        }
+    ]
+}
