@@ -3,16 +3,10 @@
     "name": "Cydonia",
     "author": "FlyArCz",
     "creators": ["FlyArCz"],
-    "verifier": "PlaceholderUK",
-    "verification": "https://youtu.be/Bpp4-2JnRFM?si=gVVk_0LkkJU9Wyhy",
+    "verifier": "CaltanGMD",
+    "verification": "https://youtu.be/iFZV9kXLhPI?si=5l3aAq_Yn8CEM9iW",
     "percentToQualify": "78",
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "CaltanGMD",
-            "link": "https://youtu.be/iFZV9kXLhPI?si=5l3aAq_Yn8CEM9iW",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }
