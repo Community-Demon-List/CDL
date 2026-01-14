@@ -3,16 +3,10 @@
     "name": "Acropolis",
     "author": "Zobros",
     "creators": ["Zobros"],
-    "verifier": "PlaceholderUK",
-    "verification": "https://www.youtube.com/watch?v=SSAfuCZ2cks",
+    "verifier": "Nickwo",
+    "verification": "https://www.youtube.com/watch?v=GRgoUA6kqz0",
     "percentToQualify": "78",
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Nickwo",
-            "link": "https://www.youtube.com/watch?v=GRgoUA6kqz0",
-            "percent": 100,
-            "hz": 144
-        }
     ]
 }
