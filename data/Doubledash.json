@@ -3,16 +3,10 @@
     "name": "Double Dash",
     "author": "Zoroa",
     "creators": ["Zoroa"],
-    "verifier": "PlaceholderUK",
-    "verification": "https://www.youtube.com/watch?v=5BDPmW9BvpA",
+    "verifier": "Nickwo",
+    "verification": "https://youtu.be/CIiaMb_uT20?si=tnd6ELdqKhqAq2lf",
     "percentToQualify": "36",
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Nickwo",
-            "link": "https://youtu.be/CIiaMb_uT20?si=tnd6ELdqKhqAq2lf",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
