@@ -20,16 +20,17 @@
             "percent": 100,
             "hz": 60
         },
-                        {
+        {
             "user": "LamarrGDM",
             "link": "https://youtu.be/EU9e_gCPQSg",
             "percent": 100,
             "hz": 140
         },
+        {
             "user": "Arczen",
             "link": "https://youtu.be/T94zxVawCOk",
             "percent": 100,
-            "hz": 140
+            "hz": 60
         }
     ]
 }
