@@ -3,16 +3,10 @@
     "name": "White Women",
     "author": "heatherhayes",
     "creators": ["heatherhayes"],
-    "verifier": "PlaceholderUK",
-    "verification": "https://youtu.be/0kPu55NJNiw?si=X6GZD8Bik3ExOoqE",
+    "verifier": "StrikeStreek",
+    "verification": "https://youtu.be/i940aSc50zU?si=nuHu8LQrkVUHJCvl",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "StrikeStreek",
-            "link": "https://youtu.be/i940aSc50zU?si=nuHu8LQrkVUHJCvl",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }
