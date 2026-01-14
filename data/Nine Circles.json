@@ -1,0 +1,24 @@
+{
+    "id": 4284013,
+    "name": "Nine Circles",
+    "author": "Zobros",
+    "creators": ["Zobros"],
+    "verifier": "PlaceholderUK",
+    "verification": "https://youtu.be/4WCgpSYz-ug?si=Jv7y3WVHVDaO3eqJ",
+    "percentToQualify": "92",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "LamarrGDM",
+            "link": "https://medal.tv/pt/games/geometry-dash/clips/lUjnfxzjyxiX594PU?invite=cr-MSx1cmUsMzM5MjE1Mjkz&v=96",
+            "percent": 100,
+            "hz": 60
+        },
+                {
+            "user": "Nickwo",
+            "link": "https://youtube.com/live/Iq2k1Puzgg8?feature=share",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
