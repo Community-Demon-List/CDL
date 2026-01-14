@@ -3,16 +3,10 @@
     "name": "Platinum Adventure",
     "author": "Jerry4",
     "creators": ["Jerry4"],
-    "verifier": "PlaceholderUK",
-    "verification": "https://www.youtube.com/watch?v=2dsAd_5Llxg",
+    "verifier": "Arczen",
+    "verification": "https://www.youtube.com/watch?v=LEyaUOXKoiU",
     "percentToQualify": "78",
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Arczen",
-            "link": "https://www.youtube.com/watch?v=LEyaUOXKoiU",
-            "percent": 100,
-            "hz": 30
-        }
     ]
 }
