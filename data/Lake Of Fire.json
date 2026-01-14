@@ -1,0 +1,18 @@
+{
+    "id": 2456909,
+    "name": "Lake Of Fire",
+    "author": "WeoWeoTeo",
+    "creators": ["WeoWeoTeo"],
+    "verifier": "WeoWeoTeo",
+    "verification": "https://www.youtube.com/watch?v=FmauXeaiCxk",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "SpaceBR",
+            "link": "https://youtu.be/NbzU4lmn5Vc",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
