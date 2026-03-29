@@ -1,11 +1,11 @@
 {
     "id": 68848817,
     "name": "Moment",
-    "author": "lexycat",
-    "creators": ["lexycat"],
+    "author": "Lexycat",
+    "creators": ["Lexycat"],
     "verifier": "LamarrGDM",
     "verification": "https://www.youtube.com/watch?v=6FaKPWqrWOU&t=3s",
-    "percentToQualify": "78",
+    "percentToQualify": 78,
     "password": "Not Copyable",
     "records": [
     ]
